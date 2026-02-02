@@ -1,6 +1,7 @@
 # 💫 About Me:
 Hi!<br>Myself, Keshav Mehra aka Airbone<br>Well i am a just a guy who likes to explore and try various(and weird) things about tech and development<br>You can ask me about comics (coz i like them)<br>I would like to collaborate on backend development<br>Lets see how my journey goes
 
+<img align="center" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGppYWljMzc5bGY1b2w3ZWd5a28wc2tuMHJoeHh1dDR1Nmt3YjRveCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif">
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_the_autistic_one__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/keshav-mehra-543362296) 
