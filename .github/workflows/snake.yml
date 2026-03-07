@@ -23,7 +23,3 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-
-**3. Your SVG URL will then work:**
-```
-https://raw.githubusercontent.com/Airbone25/Airbone25/output/github-contribution-grid-snake.svg
