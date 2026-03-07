@@ -97,9 +97,8 @@ const keshav = {
 
 ## 🐍 Contribution Snake
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Airbone25/Airbone25/output/snake.svg" alt="Snake animation" />
-</div>
+![snake](https://raw.githubusercontent.com/Airbone25/Airbone25/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![snake](https://raw.githubusercontent.com/Airbone25/Airbone25/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 ---
 
