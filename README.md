@@ -74,10 +74,10 @@ const keshav = {
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| 🛡️ **VeriMail** | Email verification & authentication service | Node.js · API |
-| 📖 **Manga-kun** | Manga reader & discovery platform | React · Next.js |
-| ✨ **Beautify** | Code & content beautifier / formatter tool | TypeScript |
-| 💬 **ChatApp** | Real-time chat with rooms & presence indicators | Socket.io · Redis · MongoDB |
+| 🛡️ **VeriMail** | Email verification & authentication service | Nodejs · Express · Redis · Nextjs|
+| 📖 **Manga-kun** | Manga reader & discovery platform | React · Nodejs · Express · Multer · Cloudinary |
+| ✨ **Beautify** | Code & content beautifier / formatter tool | React |
+| 💬 **ChatApp** | Real-time chat with rooms & presence indicators | Nodejs · Socket.io |
 
 ---
 
