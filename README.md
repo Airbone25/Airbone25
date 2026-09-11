@@ -107,7 +107,7 @@ I especially enjoy taking an idea from **"this would be cool" → working protot
 
 **An AI-powered database investigation agent.**
 
-Whybase lets users investigate databases using natural language. Instead of manually exploring tables and writing queries, the system can reason about the database, form hypotheses, execute safe read-only queries, and return evidence-backed conclusions.
+An autonomous agent that investigates business questions by exploring a MySQL database, forming hypotheses, running SQL queries, and delivering evidence-backed conclusions.
 
 **Built with:**
 
