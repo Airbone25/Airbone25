@@ -43,7 +43,7 @@
 
 ## About Me
 
-I'm **Keshav**, a 3rd-year BTech student from Delhi who enjoys building full-stack products from the ground up.
+I'm **Keshav**, a Final year BTech student from Delhi who enjoys building full-stack products from the ground up.
 
 I like working on the parts of software that make things **actually work** — APIs, databases, authentication, real-time systems, distributed workflows, and the occasional weird idea that turns into a weekend project.
 
